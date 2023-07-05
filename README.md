@@ -1,4 +1,4 @@
-# Assignment 1
+
 ### Install instructions
 1. Ensure your computer has java installed on it (instructions available here https://java.com/en/download/help/windows_manual_download.xml)
 2. Install mysql (https://dev.mysql.com/doc/refman/5.7/en/windows-installation.html)
