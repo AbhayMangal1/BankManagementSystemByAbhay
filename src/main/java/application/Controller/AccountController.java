@@ -21,9 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.sql.Date;
 import java.sql.Timestamp;
 
-/**
- * Created by Vlad on 27-Mar-17.
- */
+
 @Controller
 @RequestMapping("/account")
 public class AccountController {

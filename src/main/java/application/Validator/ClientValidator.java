@@ -2,9 +2,7 @@ package application.Validator;
 
 import application.Entity.Client;
 
-/**
- * Created by Vlad on 03-Apr-17.
- */
+
 public class ClientValidator {
 
     public boolean validate(Client client) {

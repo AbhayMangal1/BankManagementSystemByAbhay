@@ -19,9 +19,7 @@ import org.springframework.web.servlet.ModelAndView;
 import javax.servlet.http.HttpServletRequest;
 import java.sql.Timestamp;
 
-/**
- * Created by Vlad on 28-Mar-17.
- */
+
 @Controller
 @RequestMapping("/transfer")
 public class TransferController {

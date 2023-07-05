@@ -2,9 +2,7 @@ package application.Entity;
 
 import javax.persistence.*;
 
-/**
- * Created by Vlad on 20-Mar-17.
- */
+
 @Entity
 public class Client {
 

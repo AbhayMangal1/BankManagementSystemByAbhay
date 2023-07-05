@@ -26,9 +26,7 @@ import java.util.Date;
 import java.util.HashSet;
 import java.util.List;
 
-/**
- * Created by Vlad on 25-Mar-17.
- */
+
 @Controller
 @RequestMapping(value = "/admin")
 public class AdminController {

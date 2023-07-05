@@ -2,9 +2,7 @@ package application.Entity;
 
 import javax.persistence.*;
 
-/**
- * Created by Vlad on 01-Apr-17.
- */
+
 @Entity
 public class Role {
 

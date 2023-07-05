@@ -7,9 +7,7 @@ import org.springframework.security.core.userdetails.UserDetails;
 import javax.persistence.*;
 import java.util.Collection;
 
-/**
- * Created by Vlad on 20-Mar-17.
- */
+
 @Entity
 @Table(name = "employee")
 public class Employee {

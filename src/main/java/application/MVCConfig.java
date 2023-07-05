@@ -13,9 +13,7 @@ import org.thymeleaf.spring4.view.ThymeleafViewResolver;
 import org.thymeleaf.templateresolver.ServletContextTemplateResolver;
 import org.thymeleaf.templateresolver.TemplateResolver;
 
-/**
- * Created by Vlad on 21-Mar-17.
- */
+
 @Configuration
 public class MVCConfig extends WebMvcConfigurerAdapter {
 

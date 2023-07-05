@@ -15,9 +15,7 @@ import org.springframework.security.web.access.expression.DefaultWebSecurityExpr
 import javax.sql.DataSource;
 
 
-/**
- * Created by Vlad on 21-Mar-17.
- */
+
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig extends WebSecurityConfigurerAdapter {

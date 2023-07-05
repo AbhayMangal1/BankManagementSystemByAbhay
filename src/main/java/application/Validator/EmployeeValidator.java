@@ -2,9 +2,7 @@ package application.Validator;
 
 import application.Entity.Employee;
 
-/**
- * Created by Vlad on 03-Apr-17.
- */
+
 public class EmployeeValidator {
 
     public boolean validate(Employee employee) {

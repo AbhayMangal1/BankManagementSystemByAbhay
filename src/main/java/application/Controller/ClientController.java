@@ -21,9 +21,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.sql.Timestamp;
 import java.util.List;
 
-/**
- * Created by Vlad on 27-Mar-17.
- */
+
 @Controller
 @RequestMapping("/clientOp")
 public class ClientController {

@@ -17,9 +17,7 @@ import javax.persistence.SharedCacheMode;
 import javax.sql.DataSource;
 import java.util.Properties;
 
-/**
- * Created by Vlad on 21-Mar-17.
- */
+
 @Configuration
 @EnableJpaRepositories(basePackages = "application/Repository")
 @EnableTransactionManagement

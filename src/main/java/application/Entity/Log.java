@@ -4,9 +4,7 @@ import javax.persistence.*;
 import java.sql.Timestamp;
 import java.util.Date;
 
-/**
- * Created by Vlad on 20-Mar-17.
- */
+
 @Entity
 public class Log {
 

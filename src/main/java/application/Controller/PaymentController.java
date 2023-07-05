@@ -15,9 +15,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import javax.servlet.http.HttpServletRequest;
 import java.sql.Timestamp;
 
-/**
- * Created by Vlad on 02-Apr-17.
- */
+
 @Controller
 @RequestMapping("/payment")
 public class PaymentController {

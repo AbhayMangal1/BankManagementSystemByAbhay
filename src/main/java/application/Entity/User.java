@@ -8,10 +8,6 @@ import java.util.Collection;
 import java.util.Set;
 import javax.persistence.Column;
 
-/**
- * Created by Vlad on 26-Mar-17.
- */
-
 
 @Entity
 public class User {
